@@ -1,2 +1,2 @@
-# mediapredictions
-Some kaggle notebooks on analyzing media trends.
+# Kaggle NBs
+Some of my kaggle notebooks
